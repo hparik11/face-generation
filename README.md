@@ -5,9 +5,8 @@ Using deep learning DCGAN neural network to generate realistic faces from celebr
 Using a Deep Convolutional Generative Adversarial Network (DCGAN) to generates new images of faces. The dataset that's used is the [CelebFaces Atrribute Dataset (CelebA)](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html), which contains over 200,000 celebrity faces with annotations.
 
 
-# DCGAN in Tensorflow
-
-Tensorflow implementation of [Deep Convolutional Generative Adversarial Networks](http://arxiv.org/abs/1511.06434) which is a stabilize Generative Adversarial Networks. The referenced torch code can be found [here](https://github.com/soumith/dcgan.torch).
+# Overview
+Tensorflow implementation of [Deep Convolutional Generative Adversarial Networks](http://arxiv.org/abs/1511.06434) which is a stabilize Generative Adversarial Networks. 
 
 <img src="https://raw.githubusercontent.com/carpedm20/DCGAN-tensorflow/master/DCGAN.png">
 
@@ -48,3 +47,11 @@ After 10 iterations:
 After 20 iterations:
 
 ![result4](imgs/mnist_iter_20.png)
+
+
+## Related works
+
+- [DCGAN-tensorflow](https://github.com/carpedm20/DCGAN-tensorflow)
+- [DiscoGAN-pytorch](https://github.com/carpedm20/DiscoGAN-pytorch)
+- [simulated-unsupervised-tensorflow](https://github.com/carpedm20/simulated-unsupervised-tensorflow)
+
