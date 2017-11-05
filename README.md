@@ -29,4 +29,22 @@ Beta 1                  | 0.5    |
 
 <img src="https://github.com/carpedm20/DCGAN-tensorflow/blob/master/assets/training.gif?raw=true">
 
+### celebA
 
+After 10 iterations:
+
+![result1](imgs/iter_10.png)
+
+After 20 iterations:
+
+![result2](imgs/iter_20.png)
+
+### MNIST
+
+After 10 iterations:
+
+![result3](imgs/mnist_iter_10.png)
+
+After 20 iterations:
+
+![result4](imgs/mnist_iter_20.png)
